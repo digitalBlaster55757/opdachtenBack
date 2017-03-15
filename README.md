@@ -16,6 +16,6 @@ Hierbij heb ik een checkbox gemaakt met:
 Hier heb ik een soort "Leeftijdmachine" gemaakt, waarbij je een datum en jaartal moet uitkiezen in een calender.
 Onder je datum gaat hij berekenen hoe oud je nu bent.
 
-<b># Opdracht:4</b><br>
+<b># Opdracht 4:</b><br>
 Ik heb een zogenoemde countdown klok gemaakt. 
 Ik heb een datum ingevuld van een evenement en ASP laat zien hoeveel dagen, uren en minuten het nog duurt voordat het zover is.
