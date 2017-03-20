@@ -21,3 +21,7 @@ Onder je datum gaat hij berekenen hoe oud je nu bent.
 <b># Opdracht 4:</b><br>
 Ik heb een zogenoemde countdown klok gemaakt. 
 Ik heb een datum ingevuld van een evenement en ASP laat zien hoeveel dagen, uren en minuten het nog duurt voordat het zover is.
+
+<b># Opdracht 5:</b><br>
+Hier heb ik gewerkt met validators.
+Ik heb gebruik gemaakt van een RangeValidator, een CompareValidator en een RegularExpressionValidator.
