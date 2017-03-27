@@ -25,3 +25,6 @@ Ik heb een datum ingevuld van een evenement en ASP laat zien hoeveel dagen, uren
 <b># Opdracht 5:</b><br>
 Hier heb ik gewerkt met validators.
 Ik heb gebruik gemaakt van een RangeValidator, een CompareValidator en een RegularExpressionValidator.
+
+<b># Opdracht 6:</b><br>
+Hier heb ik een werkende grafische rekenmachine gemaakt.
