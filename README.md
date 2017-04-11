@@ -28,3 +28,6 @@ Ik heb gebruik gemaakt van een RangeValidator, een CompareValidator en een Regul
 
 <b># Opdracht 6:</b><br>
 Hier heb ik een werkende grafische rekenmachine gemaakt.
+
+<b># Opdracht 7:</b><br>
+Hier staat nu een activiteitendiagram in van onze opdracht over de tafeltoets.
