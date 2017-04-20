@@ -31,3 +31,4 @@ Hier heb ik een werkende grafische rekenmachine gemaakt.
 
 <b># Opdracht 7:</b><br>
 Hier staat nu een activiteitendiagram in van onze opdracht over de tafeltoets.
+Ook heb ik daar de codering van de tafeltoets ingezet.
